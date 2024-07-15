@@ -6,4 +6,4 @@
 
 ## Photo de l'application avec une erreur
 
-<img src="./src/assets/error.png">
+<img src="./src/assets/app_error.png">
